@@ -1,2 +1,2 @@
 # Programa convite
-Repositório criado para reposiçao 
+Repositório criado para reposição
